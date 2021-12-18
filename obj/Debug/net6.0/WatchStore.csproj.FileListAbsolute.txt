@@ -1,0 +1,15 @@
+C:\Users\DellPC\OneDrive\Desktop\WatchStore\bin\Debug\net6.0\WatchStore.exe
+C:\Users\DellPC\OneDrive\Desktop\WatchStore\bin\Debug\net6.0\WatchStore.deps.json
+C:\Users\DellPC\OneDrive\Desktop\WatchStore\bin\Debug\net6.0\WatchStore.runtimeconfig.json
+C:\Users\DellPC\OneDrive\Desktop\WatchStore\bin\Debug\net6.0\WatchStore.dll
+C:\Users\DellPC\OneDrive\Desktop\WatchStore\bin\Debug\net6.0\ref\WatchStore.dll
+C:\Users\DellPC\OneDrive\Desktop\WatchStore\bin\Debug\net6.0\WatchStore.pdb
+C:\Users\DellPC\OneDrive\Desktop\WatchStore\obj\Debug\net6.0\WatchStore.csproj.AssemblyReference.cache
+C:\Users\DellPC\OneDrive\Desktop\WatchStore\obj\Debug\net6.0\WatchStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DellPC\OneDrive\Desktop\WatchStore\obj\Debug\net6.0\WatchStore.AssemblyInfoInputs.cache
+C:\Users\DellPC\OneDrive\Desktop\WatchStore\obj\Debug\net6.0\WatchStore.AssemblyInfo.cs
+C:\Users\DellPC\OneDrive\Desktop\WatchStore\obj\Debug\net6.0\WatchStore.csproj.CoreCompileInputs.cache
+C:\Users\DellPC\OneDrive\Desktop\WatchStore\obj\Debug\net6.0\WatchStore.dll
+C:\Users\DellPC\OneDrive\Desktop\WatchStore\obj\Debug\net6.0\ref\WatchStore.dll
+C:\Users\DellPC\OneDrive\Desktop\WatchStore\obj\Debug\net6.0\WatchStore.pdb
+C:\Users\DellPC\OneDrive\Desktop\WatchStore\obj\Debug\net6.0\WatchStore.genruntimeconfig.cache
