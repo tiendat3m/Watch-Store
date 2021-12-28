@@ -7,7 +7,7 @@ using System.IO;
 
 namespace WatchStore
 {
-    class PhieuNhap
+    class PhieuNhap: SanPham
     {
         string MaPN, NCC, diachi, sdt;
         DateTime NgayNhap;

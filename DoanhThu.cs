@@ -7,7 +7,7 @@ using System.IO;
 
 namespace WatchStore
 {
-    class DoanhThu
+    class DoanhThu: SanPham
     {
         DSHoaDon tk = new DSHoaDon();
         public void ThongkeNgay()
@@ -60,7 +60,7 @@ namespace WatchStore
             }
             Console.WriteLine("\t\t====================================================================================");
             l.Close();
-            Console.Write("\n\t\tTỔNG SỐ TIỀN BÁN ĐƯỢC TRONG THÁNG {0}/{1} :                            {2} ", thang, nam, dtT);
+            Console.Write("\n\t\tTỔNG SỐ TIỀN BÁN ĐƯỢC TRONG THÁNG {0}/{1} : {2} ", thang, nam, dtT);
             //StreamReader sr = new StreamReader("phieunhap.txt");
             //string s;
             //float dt1 = 0;

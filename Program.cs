@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WatchStore
 {
-    class TimKiem
+    class TimKiem : SanPham
     {
         public void TKSanPham()
         {

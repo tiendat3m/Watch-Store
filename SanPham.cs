@@ -63,6 +63,8 @@ namespace WatchStore
     class DSSanPham
     {
         List<SanPham> ds = new List<SanPham>();
+
+        // DỌC GHI FILE
         public void DocTep()
         {
             try
