@@ -245,8 +245,8 @@ namespace WatchStore
                 sr.Close();
                 Console.WriteLine("\t\t |_______________________________________________________________________________________________|");
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("\t\t Tổng Số  :                                                                  {0,-7}", ds[i].Tongsl1);
-                Console.WriteLine("\t\t Tổng Tiền:                                                                         {0,-11}", ds[i].Tong1);
+                Console.WriteLine("\t\t Tổng Số  :  {0,-7}", ds[i].Tongsl1);
+                Console.WriteLine("\t\t Tổng Tiền:  {0,-11}", ds[i].Tong1);
                 Console.ForegroundColor = ConsoleColor.Black;
             }
         }
@@ -278,8 +278,8 @@ namespace WatchStore
                     sr.Close();
                     Console.WriteLine("\t\t |_______________________________________________________________________________________________|");
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("\t\t Tổng Số   :                                                             {0}", int.Parse(x[3]));
-                    Console.WriteLine("\t\t Tổng Tiền :                                                                         {0}", float.Parse(x[4]));
+                    Console.WriteLine("\t\t Tổng Số   : {0}", int.Parse(x[3]));
+                    Console.WriteLine("\t\t Tổng Tiền : {0}", float.Parse(x[4]));
                     Console.ForegroundColor = ConsoleColor.Black;
                 }
             }
